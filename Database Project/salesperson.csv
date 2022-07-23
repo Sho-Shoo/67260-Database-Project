@@ -1,0 +1,13 @@
+salesperson_id,fname,lname,phone,email,dealership_id
+101,Moses,Crafford,(212) 555-6183,mcrafford@cadillac.com,2001
+102,Jack,Clobburn,(212) 555-9348,jclobburn@cadillac.com,2004
+103,Gerbard,Forrester,(212) 555-9912,gforrester@cadillac.com,2001
+104,Sophia,Hobburn,(212) 555-3246,shobburn@cadillac.com,2002
+105,Edward,Josh,(212) 555-9448,ejosh@cadillac.com,2000
+106,Gabriel,King,(212) 555-2455,gking@cadillac.com,2005
+107,Travis,King,(212) 555-2456,tking@cadillac.com,2000
+108,Silver,Santiago,(212) 555-3385,ssantiago@cadillac.com,2003
+109,Norman,Oliver,(212) 555-2066,noliver@cadillac.com,2002
+110,Liz,Santiago,(212) 555-9308,lsantiago@cadillac.com,2004
+111,Vogel,Valeria,(212) 555-3707,vvaleria@cadillac.com,2003
+112,Radcliffe,Wesley,(212) 555-7522,rwesley@cadillac.com,2005

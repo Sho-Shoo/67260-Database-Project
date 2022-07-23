@@ -1,0 +1,9 @@
+model_id,model,style
+1400,CT4,sedan
+2400,XT4,suv
+1500,CT5,sedan
+2500,XT5,suv
+1450,CT4-V,sedan
+2600,XT6,suv
+1550,CT5-V,sedan
+3000,Escalade,suv
